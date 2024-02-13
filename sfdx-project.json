@@ -6,7 +6,7 @@
     }
   ],
   "name": "TrailHead",
-  "namespace": "Tekunda",
+  "namespace": "Syntilio",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "56.0"
 }
